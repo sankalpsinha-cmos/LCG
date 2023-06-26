@@ -1,1 +1,1 @@
-# LCG
+# LCG: A collection of DS and Algo questions from leetcode
